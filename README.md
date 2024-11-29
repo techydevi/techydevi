@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @techydevi
 - 👀 Exploring Python and C++ and lurking in web dev
-- 📫 Connect with me on LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love problems
 
 <!---
 techydevi/techydevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
